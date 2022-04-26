@@ -1,2 +1,2 @@
-# lakshmans.github.io
+# lakshmanshyju.github.io
 My awesome tiddler wiki
